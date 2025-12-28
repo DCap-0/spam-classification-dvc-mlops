@@ -4,3 +4,6 @@ nltk
 dvc
 dvclive
 pyyaml
+
+dvc[s3]
+awscli
